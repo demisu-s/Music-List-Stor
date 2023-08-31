@@ -1,0 +1,35 @@
+.fcontainer{
+    margin-top: 100px;
+   margin-left: 30%;
+}
+Input{
+   
+}
+.idf{
+    width: 200px;
+margin-bottom: 20px;
+   
+}
+.titlee{
+width: 400px;
+border: 1px solid black;
+margin-bottom: 20px;
+}
+.namee{
+    width: 400px;
+border: 1px solid black;
+margin-bottom: 20px;
+}
+
+.musicFilee{
+    width: 400px;
+border: 1px solid black;
+margin-bottom: 20px;
+height: 26px;
+}
+.add{
+    font-size: 30px;
+}
+.btnn{
+    text-transform: none;
+}

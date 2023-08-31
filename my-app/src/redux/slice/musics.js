@@ -1,3 +1,4 @@
+// musics.js
 import { createSlice } from '@reduxjs/toolkit';
 
 const musics = createSlice({
@@ -6,7 +7,7 @@ const musics = createSlice({
 
   reducers: {
     getMusicsSlice: (state, action) => {
-      return action.payload; // Updated to directly return the payload
+      return action.payload;
     },
     addMusicsSlice: (state, action) => {
       state.push(action.payload);

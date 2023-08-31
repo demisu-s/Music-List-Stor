@@ -1,0 +1,24 @@
+.tcontainer{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 30px;
+}
+.toadd{
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+.tableHead{
+    border: 1px solid black;
+
+}
+.rowt{
+    font-size: 20px;
+    font-weight: 500;
+}
+.smat{
+    width: 10px;
+}
+.smad{
+    width: 10px;
+}
